@@ -23,6 +23,7 @@ qt_Qt5Keychain.pri
 #Qt files
 *_parameters
 *.qm
+*.pro.user
 
 #General build files
 Debug
